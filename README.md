@@ -1,4 +1,5 @@
 # 🎵 Spotify Clone Backend API
+**Postman Documentation: https://documenter.getpostman.com/view/46428929/2sBXwqqVsv**
 
 A **Spotify Clone Backend** built using **Node.js, Express.js, MongoDB, and ImageKit.io** that provides authentication, music upload, album management, and protected routes for users and artists.
 
